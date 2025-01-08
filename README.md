@@ -2,7 +2,7 @@
 I’m a self-taught passionate Back-end Developer from Brazil 🇧🇷
 
 ## Skills/Technologies
-
+Asp.net, Laravel, API REST, API RESTful, MySQL, SQL Server, MongoDB.
 <table style="width: 100%">
   <tr style="width: 100%;">
     <td style="border: none;">
