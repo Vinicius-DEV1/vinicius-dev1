@@ -1,5 +1,5 @@
 ## Hi there! Vinicius is here!  👋
-I’m a self-taught passionate Back-end Developer from Brazil 🇧🇷
+As a self-taught back-end developer, I drive my growth by building practical solutions. With a solid foundation in PHP, Laravel, and APIs, I am currently focusing on refining my engineering skills to deliver professional, production-ready code. Highly versatile and adaptable, I always seek to quickly learn any new stack or technology that a challenge demands.
 
 ## Skills/Technologies
 Asp.net, Laravel, API REST, API RESTful, MySQL, SQL Server, MongoDB.
@@ -32,7 +32,7 @@ Hands-on experience leveraging guided AI tools and autonomous agents (**Claude C
 ---
 
 ## About me
-
+[comment]: 📫 **How to reach me:** [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI) | [Email](mailto:vinicius.cl.dev@gmail.com)
 
 ### Stats
 | <a href="https://github.com/vinicius-dev1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius-dev1&show_icons=true&include_all_commits=true&theme=algolia" alt="Vinicius github stats" /></a> | <a href="https://github.com/vinicius-dev1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-dev1&layout=compact&theme=algolia&hide_border=true" /></a> |
