@@ -32,7 +32,7 @@ Hands-on experience leveraging guided AI tools and autonomous agents (**Claude C
 ---
 
 ## About me
-[comment]: 📫 **How to reach me:** [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI) | [Email](mailto:vinicius.cl.dev@gmail.com)
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/viniciuscalado/) | [Email](mailto:vinicius.cl.dev@gmail.com)
 
 ### Stats
 | <a href="https://github.com/vinicius-dev1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicius-dev1&show_icons=true&include_all_commits=true&theme=algolia" alt="Vinicius github stats" /></a> | <a href="https://github.com/vinicius-dev1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-dev1&layout=compact&theme=algolia&hide_border=true" /></a> |
