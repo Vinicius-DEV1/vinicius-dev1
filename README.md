@@ -2,7 +2,7 @@
 As a self-taught back-end developer, I drive my growth by building practical solutions. With a solid foundation in PHP, Laravel, and APIs, I am currently focusing on refining my engineering skills to deliver professional, production-ready code. Highly versatile and adaptable, I always seek to quickly learn any new stack or technology that a challenge demands.
 
 ## Skills/Technologies
-Asp.net, Laravel, API REST, API RESTful, MySQL, SQL Server, MongoDB.
+Asp.net, Laravel, API REST, API RESTful, MySQL, SQL Server, MongoDB, Docker, Firebase, Aws.
 
 <table style="width: 100%">
   <tr style="width: 100%;">
