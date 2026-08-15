@@ -20,7 +20,7 @@ Asp.net, Laravel, API REST, API RESTful, MySQL, SQL Server, MongoDB, Docker, Fir
         <!-- <code><img height="40" alt="aspnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTm955pGRTjIS5_WyN8G6_WsGxrVpP-9zdWw&s" /></code> !-->
         <!-- <code><img height="40" alt="angular" src="https://w7.pngwing.com/pngs/270/596/png-transparent-angular-logo-logos-logos-and-brands-icon.png" /></code> !-->
         <code><img height="40" alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /></code>
-        <code><img height="40" alt="react" src="https://cdn.jsdelivr.net/npm/react@19.2.8/jsx-runtime.min.js" /></code>
+        <code><img height="40" alt="react" src="https://avatars.githubusercontent.com/u/102812?v=4" /></code>
         <!-- <code><img height="40" alt="vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code> !-->
       </div>
     </td>
